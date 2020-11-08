@@ -1,4 +1,4 @@
-### Hey👋, I'm Andrew
+### Hey 👋, I'm Andrew
 
 Here are some ideas to get you started:
 
