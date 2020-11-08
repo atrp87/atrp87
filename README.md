@@ -1,4 +1,4 @@
-### Hello, I'm Andrew Peattie 👋
+### Hey👋, I'm Andrew
 
 Here are some ideas to get you started:
 
