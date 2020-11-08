@@ -1,5 +1,9 @@
 ### Hey 👋, I'm Andrew
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/andrew-peattie/"
+    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
