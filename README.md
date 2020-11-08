@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Andrew Peattie 👋
 
 <!--
 **atrp87/atrp87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
