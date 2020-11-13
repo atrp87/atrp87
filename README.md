@@ -1,7 +1,7 @@
 <h1 align='center'> Hi, I'm Andrew :wave: :earth_africa:	 </h1>
 
 <p align='center'>
-  Passionate about writing software that solves problems in a creative way.
+  A CodeClan graduate continuing to learn experiment and build.
 </p>
 
 <p align='center'>
@@ -10,7 +10,7 @@
 
 <hr>
 
-<h4> :telescope: Currently Working on: </h4>
+<h3> :telescope: Currently Working on: </h3>
 <p>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><br>
@@ -23,7 +23,7 @@
 
 <hr>
 
-<h5> :seedling: Working towards:</h5>
+<h4> :seedling: Working towards:</h4>
 <p>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" /><br>
