@@ -1,6 +1,8 @@
-<h1 align='center'> Hi, I,m Andrew :wave: </h1>
+<h1 align='center'> Hi, I'm Andrew :wave: </h1>
 
-<hr />
+<p align='center'>
+  I am a CodeClan graduate, continuing to learn, solve and build.
+</p>
 
 
 
