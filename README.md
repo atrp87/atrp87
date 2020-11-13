@@ -1,4 +1,4 @@
-<h1 align='center'> Hi, I'm Andrew :wave: </h1>
+<h1 align='center'> Hi, I'm Andrew :wave::earth_africa:	 </h1>
 
 <p align='center'>
   Passionate about writing software that solves problems in a creative way.
