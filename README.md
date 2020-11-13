@@ -1,7 +1,7 @@
 <h1 align='center'> Hi, I'm Andrew :wave: :earth_africa:	 </h1>
 
 <p align='center'>
-  A CodeClan graduate continuing to learn experiment and build.
+  Passionate about writing software that solves problems in a creative way.
 </p>
 
 <p align='center'>
