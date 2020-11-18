@@ -11,7 +11,7 @@
 
 <hr>
 
-<h3 align='center'> :telescope: Currently Working with: </h3>
+<h3 align='center'> :telescope:  Currently Working with: </h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h4 align='center'> :seedling: Working towards:</h4>
+<h4 align='center'> :seedling:  Working towards:</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" /><br>
