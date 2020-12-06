@@ -7,8 +7,7 @@
 
 <hr>
 
-<div>
-<h3> Currently Working with: </h3>
+<h3> Working with: </h3>
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,4 +30,3 @@
    
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
 </p>
-</div>
