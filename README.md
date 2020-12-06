@@ -7,7 +7,8 @@
 
 <hr>
 
-<h3> :telescope:  Currently Working with: </h3>
+<div>
+<h3> Currently Working with: </h3>
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,9 +20,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<hr>
-
-<h3 align='right'> :seedling:  Working towards:</h3>
+<h3 align='right'> Working towards:</h3>
 <p align='right'>
   
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,4 +31,4 @@
    
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
 </p>
-
+</div>
