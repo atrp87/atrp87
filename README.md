@@ -1,8 +1,4 @@
-<h1 align='center'> Hi, I'm Andrew :wave: :earth_africa:	 </h1>
-
-<p align='center'>
-  Passionate about writing software that solves problems in a creative way.
-</p>
+![Profile Header Image](https://github.com/atrp87/atrp87/blob/main/images/Github_Banner.jpg)
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/andrew-peattie/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
