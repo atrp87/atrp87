@@ -1,4 +1,4 @@
-![Profile Header Image](https://github.com/atrp87/atrp87/blob/main/images/Github_Banner.jpg)
+<img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" height="200" width="1000">
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/andrew-peattie/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
