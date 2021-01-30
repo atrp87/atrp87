@@ -1,5 +1,6 @@
 <img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" height="200" width="1000">
 
+### Hi, I'm Andrew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align='center'>
    <a href="https://www.linkedin.com/in/andrew-peattie/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:drewpeattie@hotmail.com?subject=Hello%20Andrew"><img src="https://img.shields.io/badge/Outlook-%23007ACC.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
