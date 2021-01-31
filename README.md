@@ -10,7 +10,9 @@ I'm an avid Full Stack Web Developer continuing to grow professionally and perso
   <img alt="Andrew's Email" height="32" width=“32” src="https://dma.org.uk/uploads/articles/T-circle-icons-mail.svg.png" />
 </a>
 
-<br>
+<br />
+<br />
+
 
 **Languages and Tools:**  
 
