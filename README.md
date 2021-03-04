@@ -1,7 +1,7 @@
 <img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" height="200" width="1000">
 
 ### Hi, I'm Andrew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm an avid Full Stack Web Developer continuing to grow professionally and personally.
+I'm an avid Web Developer continuing to grow professionally and personally.
 
 <a href="https://www.linkedin.com/in/andrew-peattie/">
   <img alt="Andrew's LinkedIn" height="32" width=“32” src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
